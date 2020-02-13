@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Jeff Bezos",
+    "start": "2019-01-12 00:00",
+    "end": "2019-01-13 00:00",
+    "category": "Entrepreneurs",
+    "briefBio": "Jeffrey Preston Bezos is an American technology entrepreneur, investor,  and philanthropist. He is the founder, CEO, and president of Amazon.com, Inc.  Bezos was born in Albuquerque, New Mexico, and raised in Houston, Texas. He graduated  from Princeton University in 1986 with degrees in electrical engineering and computer science.",
+    "imageLink": "celeb-images/JeffBez.jpg",
+    "budget": "£124,000"
+  },
+  {
+    "title": "Bill Gates",
+    "start": "2019-10-28 00:00",
+    "end": "2019-10-29 00:00",
+    "category": "Entrepreneurs",
+    "briefBio": "William Henry Gates III is an American business magnate, investor,  author, philanthropist, and humanitarian. He is best known as the principal founder  of Microsoft Corporation. During his career at Microsoft, Gates held the positions of  chairman, CEO and chief software architect, while also being the largest individual shareholder until May 2014",
+    "imageLink": "celeb-images/BillGate.jpg",
+    "budget": "£107,000"
+  },
+  {
+    "title": "Oprah Winfery",
+    "start": "2019-01-29 00:00",
+    "end": "2019-01-30 00:00",
+    "category": "Entrepreneurs",
+    "briefBio": "Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer and philanthropist. She is best known for her talk show The Oprah Winfrey Show, broadcast from Chicago, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011. Dubbed the 'Queen of All Media', she was the richest African American of the 20th century and North America's first black multi-billionaire, and has been ranked the greatest black philanthropist in American history. She has also been sometimes ranked as the most influential woman in the world.",
+    "imageLink": "celeb-images/OprWin.jpg",
+    "budget": "£3,500"
+  },
+  {
+    "title": "Gina Rinehart",
+    "start": "2019-02-09 00:00",
+    "end": "2019-02-10 00:00",
+    "category": "Entrepreneurs",
+    "briefBio": "Georgina Hope ''Gina'' Rinehart is an Australian mining magnate and heiress who is Chairman of Hancock Prospecting, a privately owned mineral exploration and extraction company founded by her father Lang Hancock. She is one of Australia's richest people with net worth of US$14.8B",
+    "imageLink": "celeb-images/GinaRine.jpg",
+    "budget": "£12,700"
+  }
+]

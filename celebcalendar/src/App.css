@@ -1,0 +1,139 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.dropbtn {
+  color: #373a3c;
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  vertical-align: middle;
+  background: none;
+  background-image: none;
+  border: 1px solid #ccc;
+  padding: 0vh 1vw;
+  min-width: 6vw !important;
+  line-height: normal;
+  white-space: nowrap;
+  position: relative;
+  height: 30px
+}
+
+.dropdown {
+  position: absolute;
+  display: inline-block;
+  left: 191.8px;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #f1f1f1;
+  min-width: 30px !important;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 7;
+}
+
+.dropdown-content button {
+  color: black;
+  padding: 7px;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  font-size: 12px;
+  position: relative;
+  background-color: #f1f1f1;
+  min-width: 30px !important;
+  width: 100%;
+  border: none;
+  box-shadow: none;
+}
+
+.dropdown-content button:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.rbc-calendar {
+  min-height: 94vh;
+  max-height: 94vh;
+}
+
+.style {
+  background-color: rgba(175, 168, 163, 0.438);
+  color: rgba(94, 48, 48, 0.719);
+  font-family: monospace;
+}
+
+/* IMPORTANT - For resizing the Images of the Celebrities on Calendar.jsx */
+
+.swal-icon img {
+  width: 144px !important;
+  height: 165px !important;
+}
+
+/* IMPORTANT - For changing the size and padding of the Celebrity boxes on Calendar.jsx */
+
+.rbc-event {
+  height: 27px !important;
+  text-align: center !important;
+}
+
+.theCalendar {
+  background: #e2dac7;
+  color: #162522;
+}
+
+.rbc-toolbar-label {
+  padding-left: 105px !important;
+}
+
+.rbc-toolbar button {
+  border-radius: 0px !important;
+}
+
+.favebtn {
+  color: #373a3c;
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  vertical-align: middle;
+  background: none;
+  background-image: none;
+  border: 1px solid #ccc;
+  padding: 0vh 1vw;
+  min-width: 6vw !important;
+  line-height: normal;
+  white-space: nowrap;
+  position: relative;
+  height: 30px
+}

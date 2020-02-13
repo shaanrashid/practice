@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Patricia Bright",
+    "start": "2019-02-04 00:00",
+    "end": "2019-02-05 00:00",
+    "category": "Youtubers",
+    "briefBio": "Beauty blogger/vlogger and makeup and style expert who posts her video content  to the YouTube channel BritPopPrincess. She has earned more than 2.8 million subscribers to her channel. She presented a series of Get The Look videos for the YouTube coverage of The BRIT Awards. She created a  secondary vlog channel called Britpoplife Vlogs which has more than 250,000 subscribers.",
+    "imageLink": "celeb-images/PatBri.jpg",
+    "budget": "£50"
+  },
+  {
+    "title": "Jackie Aina",
+    "start": "2019-08-04 00:00",
+    "end": "2019-08-05 00:00",
+    "category": "Youtubers",
+    "briefBio": "Jackie Aina is a Nigerian-American beauty Youtuber. She advocates for visibility  of People of Colour in the cosmetic industry. She has patnered with e.l.f. Cosmetics, Too Faced, Sephora and Sigma Beauty.",
+    "imageLink": "celeb-images/JackAin.jpg",
+    "budget": "£280"
+  },
+  {
+    "title": "Felix Kjellberg",
+    "start": "2019-10-24 00:00",
+    "end": "2019-10-25 00:00",
+    "category": "Youtubers",
+    "briefBio": "Felix Arvid Ulf Kjellberg, known online as PewDiePie, is a Swedish YouTuber, comedian, musician and gamer–commentator known for his YouTube video content, which mainly consists of Let's Play videos and comedic formatted shows.",
+    "imageLink": "celeb-images/FelKje.jpg",
+    "budget": "£150"
+  },
+  {
+    "title": "Mark Fischbach",
+    "start": "2019-06-28 00:00",
+    "end": "2019-06-29 00:00",
+    "category": "Youtubers",
+    "briefBio": "Mark Edward Fischbach, known online as Markiplier, is an American YouTuber.  Originally from Honolulu, Hawaii, he began his career in Cincinnati, Ohio, and is currently based in Los Angeles, California.",
+    "imageLink": "celeb-images/MarkFisch.jpg",
+    "budget": "£98"
+  }
+]
